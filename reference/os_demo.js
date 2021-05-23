@@ -1,4 +1,4 @@
-const os = require('os');
+nodconst os = require('os');
 // platform  
 
 console.log(os.platform());
